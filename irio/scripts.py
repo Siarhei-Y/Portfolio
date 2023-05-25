@@ -9,7 +9,7 @@ class RegionCreator:
     """
     Assign an economic region for a country in a Dataset
     
-    use inspectorio.Region(df, country_column).assign_regin()
+    use RegionCreator(df, country_column).region()
     """
     def __init__(self, df, country_column, region_col_name='Region'):
         self.df=df
