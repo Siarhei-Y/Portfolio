@@ -11,3 +11,6 @@ Find new contacts for job titles keywords and domain names in Apollo. Also has a
 - ProspectsDomainSearch.ProspectsDomainSearch. Searches for people on Apollo.io for each domain in the input dataframe and concatenates the results. Use ProspectsDomainSearch(df,domain_col, titles).run()
 - ProspectsDomainSearch.ProspectsEnrichSearch. Searches for people on Apollo.io for each domain in the input dataframe and concatenates the results. Use ProspectsEnrichSearch(persons).run()
 - API.outreach_api.OutreachAPI().outreach_emails_checker. Searching for emails from dataframe in an Outreach database. Use OutreachAPI().outreach_emails_checker(df, column)
+
+### webscrapers
+- fundoodata Selenium Web Scraper. Scrape www.fundoodata.com list of companies
