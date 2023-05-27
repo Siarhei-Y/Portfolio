@@ -17,4 +17,7 @@ Find new contacts for job titles keywords and domain names in Apollo. Also has a
 
 ### ML_models
 - Covid Classification. Based on a Kaggle dataset. The purpose of the model to maximaze recall and identify potential mortal cases. Estimator: SGDClassifier, Recall: 0.93
-- Prediction of Wild Blueberry Yield. Based on a Kaggle dataset. Estimator: CatBoostRegressor, MAE: 348.79915
+- Prediction of Wild Blueberry Yield. Based on a Kaggle dataset. Estimator: CatBoostRegressor, MAE: 348.79915.
+
+### a/b_tests
+- ab_test_new_page. T-test to determine whether the new page generates more conversions than the old page.
