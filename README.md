@@ -14,3 +14,6 @@ Find new contacts for job titles keywords and domain names in Apollo. Also has a
 
 ### webscrapers
 - fundoodata Selenium Web Scraper. Scrape www.fundoodata.com list of companies
+
+### ML_models
+- Covid Classification. Based on a Kaggle dataset. The purpose of the model to maximaze recall and identify potential mortal cases. Estimator: SGDClassifier Recall: 0.93
