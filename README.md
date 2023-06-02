@@ -21,3 +21,4 @@ Find new contacts for job titles keywords and domain names in Apollo. Also has a
 
 ### a/b_tests
 - ab_test_new_page. T-test to determine whether the new page generates more conversions than the old page.
+- ab_bootstrap. Bootstrap on exponential distribution, T-test, p-value of bootstrapped difference. 
