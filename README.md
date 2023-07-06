@@ -21,4 +21,7 @@ Find new contacts for job titles keywords and domain names in Apollo. Also has a
 
 ### a/b_tests
 - ab_test_new_page. T-test to determine whether the new page generates more conversions than the old page.
-- ab_bootstrap. Bootstrap on exponential distribution, T-test, p-value of bootstrapped difference. 
+- ab_bootstrap. Bootstrap on exponential distribution, T-test, p-value of bootstrapped difference.
+
+### ANOVA
+- [ANOVA, varience test for crop_yield_farm dataset on Kaggle.]([../../wiki](https://www.kaggle.com/code/yagelosergey/crop-yield-farm-anova/notebook?scriptVersionId=135926243)https://www.kaggle.com/code/yagelosergey/crop-yield-farm-anova/notebook?scriptVersionId=135926243)
