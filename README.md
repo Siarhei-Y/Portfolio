@@ -25,3 +25,6 @@ Find new contacts for job titles keywords and domain names in Apollo. Also has a
 
 ### ANOVA
 - [ANOVA, varience test for crop_yield_farm dataset on Kaggle.]([../../wiki](https://www.kaggle.com/code/yagelosergey/crop-yield-farm-anova/notebook?scriptVersionId=135926243)https://www.kaggle.com/code/yagelosergey/crop-yield-farm-anova/notebook?scriptVersionId=135926243)
+
+### product_metrics_analysis
+- Growth, Retention, Churn, MAU, DAU, Top-10 products.
